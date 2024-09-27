@@ -1,0 +1,102 @@
+
+
+
+.btn {
+
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    scale: 1;
+    border-radius: 50px;
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+    scale: 1.1;
+}
+
+h1{
+    font-size: 50px;
+}
+#logo{
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: -15px
+}
+#logo2{
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: -35px
+}
+.btn2 {
+
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    scale: 1;
+  }
+.btn2:hover {
+    opacity: 0.8;
+    scale: 1.1;
+}
+
+body{
+    background-color: #0f123c;
+    text-underline-offset: -10000px;
+}
+
+.container{
+    text-align: center;
+}
+#navbar{
+    margin-top: -30px;
+}
+#navbutton{
+    text-underline-offset: -10000px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    scale: 1;
+    opacity: 1;
+    margin-right: 30px;
+    
+}
+#navbutton:hover{
+    opacity: 0.8;
+    scale: 0.7;
+    background-color: #24275b;
+}
+
+p {
+    margin-top: 50px;
+    color: white;
+    font-size: 25px;
+    margin-bottom: -29px;
+}
+
+#link2{
+    color: rgb(57, 180, 221);
+    font-size: 25px;
+    margin-left: 835px;
+}
+
+#bitlifething{
+    margin-top: -120px;
+}
+
+footer{
+    margin-top: 400px;
+}
+#link3{
+    color: rgb(57, 180, 221);
+    font-size: 25px;
+    margin-left: 312px;
+}
